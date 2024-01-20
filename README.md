@@ -1,7 +1,7 @@
 # 📋 Instagram Reach Analysis
 If a content creator wants to do well on Instagram in the long run, they have to look at the data of their Instagram reach. That is where the use of Data Science in social media comes in.
 
-<img src="![impressions-vs-reach-940x430](https://github.com/charmieboo/Instagram-Reach-Analysis/assets/117857989/034f27c1-a125-4064-8a21-ac36fbfcbda2)" width="500" height="280">
+<img width="384" alt="Screenshot 2024-01-20 at 9 57 56 PM" src="https://github.com/charmieboo/Instagram-Reach-Analysis/assets/117857989/0dae9236-be87-4339-b8e6-bf693bf017a7">
 
 ## Problem Statement
 The problem addressed in this project revolves around understanding and optimizing the reach of Instagram posts. As Instagram continually evolves and its algorithm changes, content creators face challenges in maintaining and maximizing their reach. The project seeks to provide insights into the factors influencing post reach and develop a predictive model to assist content creators in adapting their strategies for long-term success.
